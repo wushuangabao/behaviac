@@ -1,0 +1,7 @@
+.obj
+.tlog
+bin/
+intermediate/
+projects/
+tools/
+lib/
